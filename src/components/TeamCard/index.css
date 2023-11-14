@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff33;
+  margin: 20px;
+  width: 400px;
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+}
+.ipl-team-image {
+  width: 120px;
+  height: 150px;
+}
+.para {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 24px;
+  margin-left: 20px;
+  text-align: center;
+}
+.ipl-link {
+  text-decoration: none;
+}

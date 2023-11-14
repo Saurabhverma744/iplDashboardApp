@@ -1,0 +1,61 @@
+/* Write your CSS here */
+.latest-match-card-container {
+  margin-top: 20px;
+  width: 100%;
+}
+.latest-match-heading {
+  font-size: 18;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: brieSerif;
+}
+.latest-match-card {
+  display: flex;
+  flex-direction: column;
+  color: #0f172a;
+  border-radius: 10px;
+  padding: 10px 15px 10px 15px;
+}
+.latest-match-logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.latest-match-details-main {
+  color: #ffffff;
+  font-family: brieserif;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.latest-match-date,
+.latest-match-status,
+.latest-match-venue {
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.latest-match-logo {
+  height: 100px;
+  width: 100px;
+}
+.latest-match-details-info {
+  width: 100%;
+  margin-top: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.latest-match-details-label {
+  font-size: 14px;
+  font-family: brieSerif;
+  color: #ffffff;
+}
+.latest-match-details-value {
+  font-size: 12px;
+  font-family: brieSerif;
+  color: #ffffff;
+}
